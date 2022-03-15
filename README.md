@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet) [![CodeFactor](https://www.codefactor.io/repository/github/soniakarungi/hello-microverse/badge)](https://www.codefactor.io/repository/github/soniakarungi/hello-microverse)
 
 # Hello-Microverse
 
