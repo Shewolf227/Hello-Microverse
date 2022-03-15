@@ -22,6 +22,8 @@
 To get a local copy up and running follow these simple example steps.
 
 - Clone this repository to your local machine
+- git clone https://github.com/SoniaKarungi/Hello-Microverse.git
+- cd Hello-Microverse
 - Open `index.html` file in a browser of your choice
 
 
